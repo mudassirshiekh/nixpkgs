@@ -4,6 +4,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NixOS/nixos-homepage/main/public/logo/nixos-hires.png">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NixOS/nixos-artwork/master/logo/nixos-white.png">
       <img src="https://raw.githubusercontent.com/NixOS/nixos-homepage/main/public/logo/nixos-hires.png" width="500px" alt="NixOS logo">
+      <h1>"the house hand repos"</h1>
     </picture>
   </a>
 </p>
@@ -19,12 +20,14 @@
 [NixOS](https://nixos.org/nixos/), a purely-functional Linux distribution.
 
 # Manuals
+# Nider
 
 * [NixOS Manual](https://nixos.org/nixos/manual) - how to install, configure, and maintain a purely-functional Linux distribution
 * [Nixpkgs Manual](https://nixos.org/nixpkgs/manual/) - contributing to Nixpkgs and using programming-language-specific Nix expressions
 * [Nix Package Manager Manual](https://nixos.org/nix/manual) - how to write Nix expressions (programs), and how to use Nix command line tools
 
 # Community
+# Repos 3
 
 * [Discourse Forum](https://discourse.nixos.org/)
 * [Matrix Chat](https://matrix.to/#/#community:nixos.org)
